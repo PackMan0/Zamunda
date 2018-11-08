@@ -1,17 +1,14 @@
 # Zamunda
 
-##Credentials for users:
-##Administrator
-
+#Credentials for users:
+#Administrator
 Username: admin.adminov@aaa.bg
 Password: 1234567890
 
-##Moderator (Torrents)
-
+#Moderator (Torrents)
 Username: moderator.user@aaa.bg
 Password: 1234567890
 
-##User
-
+#User
 Username: simple.user@aaa.bg
 Password: 1234567890
